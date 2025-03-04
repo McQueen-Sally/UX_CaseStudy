@@ -26,8 +26,6 @@ Miembros:
 ----- 
 
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
 
 # Proceso de Diseño 
 
@@ -35,15 +33,16 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Conociendo el mundo de la venta de ropa online, sabemos que los negocios de venta de ropa de segunda mano, suelen estar relacionados con gente joven, con bajo presupuesto, o un estilo alternativo, no tan centrado en la producción en masa/tendencias de temporada. Las tiendas de segunda mano también tienen un alcance ocasional a consumidores que buscan piezas que estuvieron de moda hace tiempo, y ahora están volviendo a popularizarse, o simplemente no se pueden adquirir de primera mano, dado que la industria les ha dado la espalda a su producción. 
 
+Por otro lado, las tiendas de segunda mano, también sirven como puntos de donación de ropa a usuarios interesados en desprenderse de su ropa. Desde este punto de vista, la tienda ofrece una segunda vida, en ocasiones ofreciendo un servicio mínimo de restauración, a la prenda. Las tiendas también se sirven de mayorista para obtener las prendas para sus puntos de venta. Este apartado de donación de ropa, hace que la red de usuarios relacionada con la tienda de segunda mano no sea solo gente interesada en la adquisición, sino gente casi de cualuqier perfil, que tenga ropa a disposición para su donación, que quizá no vaya a recibir el uso que merece. 
+
+En resumen, el contexto del textil de segunda mano, abarca un público enorme, tanto joven, como más adulto, dado que estos últimos, son aquellos potenciales donantes muchas de las veces, debido a su mayor conciencia social o acumulación de prendas con el paso del tiempo. 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
