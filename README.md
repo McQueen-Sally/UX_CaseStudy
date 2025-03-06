@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_McQueen&Sally.  Curso: 2024/25 
 
-Actualizado: 04/03/2025
+Actualizado: 06/03/2025
 
 Proyecto: 
 
@@ -38,11 +38,7 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-Conociendo el mundo de la venta de ropa online, sabemos que los negocios de venta de ropa de segunda mano, suelen estar relacionados con gente joven, con bajo presupuesto, o un estilo alternativo, no tan centrado en la producción en masa/tendencias de temporada. Las tiendas de segunda mano también tienen un alcance ocasional a consumidores que buscan piezas que estuvieron de moda hace tiempo, y ahora están volviendo a popularizarse, o simplemente no se pueden adquirir de primera mano, dado que la industria les ha dado la espalda a su producción. 
-
-Por otro lado, las tiendas de segunda mano, también sirven como puntos de donación de ropa a usuarios interesados en desprenderse de su ropa. Desde este punto de vista, la tienda ofrece una segunda vida, en ocasiones ofreciendo un servicio mínimo de restauración, a la prenda. Las tiendas también se sirven de mayorista para obtener las prendas para sus puntos de venta. Este apartado de donación de ropa, hace que la red de usuarios relacionada con la tienda de segunda mano no sea solo gente interesada en la adquisición, sino gente casi de cualuqier perfil, que tenga ropa a disposición para su donación, que quizá no vaya a recibir el uso que merece. 
-
-En resumen, el contexto del textil de segunda mano, abarca un público enorme, tanto joven, como más adulto, dado que estos últimos, son aquellos potenciales donantes muchas de las veces, debido a su mayor conciencia social o acumulación de prendas con el paso del tiempo. 
+Con respecto al mundo de la venta de ropa, concretamente el de la de segunda mano online, sabemos que se suele enfocar a gente joven, con bajo presupuesto, o con estilo alternativo. También abarcan público que quiere desprenderse de prendas que no usa o que le sobran. Por lo tanto tenemos tanto usuarios que quieren comprarnos como vendernos ropa. Desde nuestra experiencia, estamos acostumbrados a comprar ropa online, vender en puntos de compra-venta o hacerlo de manera física. Sabemos que las tiendas de ropa tientan nuestra impulsividad, es por ello que desde las tiendas de segunda mano, se evita este enfoque. Muchas veces la gente dispuesta a donar, no sabe bien cómo o qué necesita la tienda, así que queremos enfocar nuestro rediseño, de manera que los usuarios que pretendan ayudar a la tienda, puedan hacerlo mediante un proceso accesible para todo el mundo.  
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
