@@ -57,6 +57,8 @@ Con respecto al mundo de la venta de ropa, concretamente el de la de segunda man
 ![image](https://github.com/user-attachments/assets/23ddb932-a67a-4c2b-848e-c9045bdfbb9e)
 Nuestra primera persona es María, una profesora de literatura que se interesa mucho por su salud y la del mundo. Su ocio se centra en la lectura, el cine y la vida sana. No se lleva muy bien con la tecnología, pero disfruta mucho de la música. 
 
+![image](https://github.com/user-attachments/assets/64846936-c96f-458e-aba3-0a54205bc2f8)
+La segunda persona es Ángel, estudiante de música que no vive con sus padres. En su tiempo libre se entetiene jugando al fútbol, la Play y reparando cualquier problemilla o avería que surja en el piso de estudiantes.
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
