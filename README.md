@@ -52,7 +52,10 @@ Con respecto al mundo de la venta de ropa, concretamente el de la de segunda man
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+
+![image](https://github.com/user-attachments/assets/79634c87-c4e3-4dbb-a10a-2d78cd9fbc88)
+Nuestra primera persona es María, una profesora de literatura que se interesa mucho por su salud y la del mundo. Su ocio se centra en la lectura, el cine y la vida sana. No se lleva muy bien con la tecnología, pero disfruta mucho de la música. 
 
 
 ### 1.d User Journey Map
