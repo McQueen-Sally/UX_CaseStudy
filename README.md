@@ -44,7 +44,8 @@ Con respecto al mundo de la venta de ropa, concretamente el de la de segunda man
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+>>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas.
+><img width="4917" alt="Competitor Analysis Practica 1 McQueen Sally" src="https://github.com/user-attachments/assets/2c10b849-1a2d-490d-b0cc-8d2910447402" />
 
 
 ### 1.c Personas
