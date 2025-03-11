@@ -65,7 +65,8 @@ La segunda persona es Ángel, estudiante de música que no vive con sus padres. 
 ----
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
+![image](https://github.com/user-attachments/assets/989a1c35-9426-4b19-85f0-e5d072f0036d)
+Es bastante habitual la experiencia de Ángel. Es muy común utilizar internet para ver el catálogo de todo tipo de tiendas y comprar de manera online.
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
