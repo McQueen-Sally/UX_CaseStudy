@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_McQueen&Sally.  Curso: 2024/25 
 
-Actualizado: 06/03/2025
+Actualizado: 11/03/2025
 
 Proyecto: 
 
