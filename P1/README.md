@@ -18,7 +18,7 @@ Persona 1 y su User Journey Map:[https://github.com/McQueen-Sally/UX_CaseStudy/b
 
 Persona 2 y su User Journey Map:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Angel%20Persona_2%20Ficha%20y%20JourneyMap.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Angel%20Persona_2%20Ficha%20y%20JourneyMap.pdf)
 
-Usability Review: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.xlsx](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.xlsx)
+Usability Review: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.pdf)
 
 Briefing:
 <br>
