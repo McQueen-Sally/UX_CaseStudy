@@ -69,14 +69,17 @@ La segunda persona es Ángel, estudiante de música que no vive con sus padres. 
 ----
 Para encontrar la información que buscan sobre Moda re-, María y Ángel van a acceder a su página web. Uno de ellos está familiarizado con las búsquedas en internet, la otra persona no tanto...
 
+
 ![image](https://github.com/user-attachments/assets/611b7453-01cb-4c76-9d78-5b34be8dd585)
 Para María este tipo de búsquedas son algo menos habitual, hace menos uso de internet y está poco familiarizada con la compra de ropa online. 
+
+Recurso María: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf)
+
 
 ![image](https://github.com/user-attachments/assets/fae212b5-4b95-4b5b-bf1e-ff7336ceb11a)
 Es bastante habitual la experiencia de Ángel. Es muy común utilizar internet para ver el catálogo de todo tipo de tiendas y comprar de manera online.
 
-
-Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf)
+Recurso Ángel: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Angel%20Persona_2%20Ficha%20y%20JourneyMap.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Angel%20Persona_2%20Ficha%20y%20JourneyMap.pdf)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
