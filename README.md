@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_McQueen&Sally.  Curso: 2024/25 
 
-Actualizado: 11/03/2025
+Actualizado: 15/03/2025
 
 Proyecto: 
 
@@ -55,7 +55,6 @@ Comparamos la página web de Moda re- con otra web de uno gigantes de la industr
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
 
 ![image](https://github.com/user-attachments/assets/23ddb932-a67a-4c2b-848e-c9045bdfbb9e)
 Nuestra primera persona es María, una profesora de literatura que se interesa mucho por su salud y la del mundo. Su ocio se centra en la lectura, el cine y la vida sana. No se lleva muy bien con la tecnología, pero disfruta mucho de la música. 
@@ -72,14 +71,20 @@ La segunda persona es Ángel, estudiante de música que no vive con sus padres. 
 ![image](https://github.com/user-attachments/assets/fae212b5-4b95-4b5b-bf1e-ff7336ceb11a)
 Es bastante habitual la experiencia de Ángel. Es muy común utilizar internet para ver el catálogo de todo tipo de tiendas y comprar de manera online.
 
+![image](https://github.com/user-attachments/assets/611b7453-01cb-4c76-9d78-5b34be8dd585)
+Para María este tipo de búsquedas son algo menos habitual, hace menos uso de internet y está poco familiarizada con la compra de ropa online. 
+
+Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf)
+
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Enlace al documento: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.xlsx](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.xlsx)
+
+URL y Valoración numérica obtenida: [https://modare.org/](https://modare.org/) Ha obtenido una puntuación total de 60, de media moderada.
+
+Comentarios sobre la revisión: En general, la web tiene errores groseros de facilidad de comprensión o ayuda al cliente, ya que visualmente no es agradable, hay mucho estrés visual, y el cliente no puede encontrar tan fácilmente lo que busca.
 
 <br>
 
