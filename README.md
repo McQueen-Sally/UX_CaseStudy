@@ -44,10 +44,11 @@ Con respecto al mundo de la venta de ropa, concretamente el de la de segunda man
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas.
+Hemos seleccionado a Moda -re para nuestro estudio al ser más cercano a nosotros la idea de comprar ropa de segunda mano y donar la que ya no usemos. Así, los cambios que propongamos a la web los hacemos desde un conocimiento previo del ámbito.
+
+Comparamos la página web de Moda re- con otra web de uno gigantes de la industria como es el grupo Inditex, en concreto la tienda Zara y la famosa tienda de segunda mano Humana.
 
 ![image](https://github.com/user-attachments/assets/81594e53-0af1-4a31-b394-03d2ba018ff6)
-Comparamos la página web de Moda re- con otra web de uno gigantes de la industria como es el grupo Inditex, en concreto la tienda Zara y la famosa tienda de segunda mano Humana.
 
 
 
@@ -59,20 +60,21 @@ Comparamos la página web de Moda re- con otra web de uno gigantes de la industr
 ![image](https://github.com/user-attachments/assets/23ddb932-a67a-4c2b-848e-c9045bdfbb9e)
 Nuestra primera persona es María, una profesora de literatura que se interesa mucho por su salud y la del mundo. Su ocio se centra en la lectura, el cine y la vida sana. No se lleva muy bien con la tecnología, pero disfruta mucho de la música. 
 
+
 ![image](https://github.com/user-attachments/assets/64846936-c96f-458e-aba3-0a54205bc2f8)
 La segunda persona es Ángel, estudiante de música que no vive con sus padres. En su tiempo libre se entetiene jugando al fútbol, la Play y reparando cualquier problemilla o avería que surja en el piso de estudiantes.
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+Para encontrar la información que buscan sobre Moda re-, María y Ángel van a acceder a su página web. Uno de ellos está familiarizado con las búsquedas en internet, la otra persona no tanto...
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![image](https://github.com/user-attachments/assets/611b7453-01cb-4c76-9d78-5b34be8dd585)
+Para María este tipo de búsquedas son algo menos habitual, hace menos uso de internet y está poco familiarizada con la compra de ropa online. 
 
 ![image](https://github.com/user-attachments/assets/fae212b5-4b95-4b5b-bf1e-ff7336ceb11a)
 Es bastante habitual la experiencia de Ángel. Es muy común utilizar internet para ver el catálogo de todo tipo de tiendas y comprar de manera online.
 
-![image](https://github.com/user-attachments/assets/611b7453-01cb-4c76-9d78-5b34be8dd585)
-Para María este tipo de búsquedas son algo menos habitual, hace menos uso de internet y está poco familiarizada con la compra de ropa online. 
 
 Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf)
 
