@@ -86,7 +86,7 @@ Recurso Ángel: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/An
 ![Método UX](img/usabilityReview.png) 
 ----
 
-Enlace al documento: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.xlsx](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.xlsx)
+Enlace al documento: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Usability-review.pdf)
 
 URL y Valoración numérica obtenida: [https://modare.org/](https://modare.org/) Ha obtenido una puntuación total de 60, de media moderada.
 
