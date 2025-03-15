@@ -50,6 +50,7 @@ Comparamos la página web de Moda re- con otra web de uno gigantes de la industr
 
 ![image](https://github.com/user-attachments/assets/81594e53-0af1-4a31-b394-03d2ba018ff6)
 
+Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20Practica%201%20McQueen%20Sally.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20Practica%201%20McQueen%20Sally.pdf)
 
 
 ### 1.c Personas
