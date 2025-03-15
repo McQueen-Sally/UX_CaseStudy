@@ -6,6 +6,12 @@
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
+User Plan Research:
+
+Con respecto al mundo de la venta de ropa, concretamente el de la de segunda mano online, sabemos que se suele enfocar a gente joven, con bajo presupuesto, o con estilo alternativo. También abarcan público que quiere desprenderse de prendas que no usa o que le sobran. Por lo tanto tenemos tanto usuarios que quieren comprarnos como vendernos ropa. Desde nuestra experiencia, estamos acostumbrados a comprar ropa online, vender en puntos de compra-venta o hacerlo de manera física. Sabemos que las tiendas de ropa tientan nuestra impulsividad, es por ello que desde las tiendas de segunda mano, se evita este enfoque. Muchas veces la gente dispuesta a donar, no sabe bien cómo o qué necesita la tienda, así que queremos enfocar nuestro rediseño, de manera que los usuarios que pretendan ayudar a la tienda, puedan hacerlo mediante un proceso accesible para todo el mundo.
+
+
+
 Análisis competitivo: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20Practica%201%20McQueen%20Sally.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Competitor%20Analysis%20Practica%201%20McQueen%20Sally.pdf):
 
 Persona 1 y su User Journey Map:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P1/Mar%C3%ADa%20Persona_1%20Ficha%20y%20JourneyMap.pdf)
