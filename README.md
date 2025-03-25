@@ -8,8 +8,7 @@ Grupo: DIU3_McQueen&Sally.  Curso: 2024/25
 Actualizado: 15/03/2025
 
 Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+### MONEDA DE CAMBIO
 
 Descripción: 
 
