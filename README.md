@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_McQueen&Sally.  Curso: 2024/25 
 
-Actualizado: 15/03/2025
+Actualizado: 1/04/2025
 
 Proyecto: 
 ### MONEDA DE CAMBIO
@@ -120,6 +120,8 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+
+![imagen](https://github.com/user-attachments/assets/a7970883-6fc8-4f01-a1a7-dd229e813f5b)
 
 
 
