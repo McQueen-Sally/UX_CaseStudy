@@ -103,7 +103,8 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
-![image](https://github.com/user-attachments/assets/954c59a0-f801-42f2-894b-7779aeddeef9)
+![image](https://github.com/user-attachments/assets/c4566775-22aa-4178-90b5-6b48dc9a69b8)
+
 
  Interesante | Críticas     
 | ------------- | -------
