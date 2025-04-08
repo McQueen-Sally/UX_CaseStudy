@@ -132,6 +132,9 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
+![image](https://github.com/user-attachments/assets/77795e0c-17e8-41e6-a75c-b0ec08217808)
+
+
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
