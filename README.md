@@ -144,7 +144,7 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Inicio Sesión  | Acceder a tu cuenta de usuario con nombre y contraseña
 
 
 ### 2.d Wireframes
