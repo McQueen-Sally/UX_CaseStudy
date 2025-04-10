@@ -132,7 +132,7 @@ Como propuesta de valor para aumentar las donaciones y compras en la tienda incl
 User Map es el recorrido que hace el usuario al interactuar con la página web.
 Task flow es un diagrama que muestra cómo un usuario completa las tareas específicas que encuentra en una web mientras va pasando por diferentes pantallas.
 
-![image](https://github.com/user-attachments/assets/14b2f686-b05c-4b56-8ddc-d7b6c42784a8)
+![image](https://github.com/user-attachments/assets/70fa0d0e-bd7b-4a9b-b054-e085bd53cf74)
 
 
 
@@ -140,7 +140,11 @@ Task flow es un diagrama que muestra cómo un usuario completa las tareas espec�
 ![Método UX](img/labelling.png) 
 ----
 
+
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+
+![image](https://github.com/user-attachments/assets/0629ec02-040e-45ae-9cb9-a70834b6fb8d)
+
 
 Término | Significado     
 | ------------- | -------
