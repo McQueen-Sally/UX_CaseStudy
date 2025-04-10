@@ -105,14 +105,11 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 ![image](https://github.com/user-attachments/assets/c4566775-22aa-4178-90b5-6b48dc9a69b8)
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+
+Como propuesta de valor para aumentar las donaciones y compras en la tienda incluimos un sistema de puntos/monedas. Estos puntos se pueden obtener donando ropa o con acciones sociales. Sirven para poder intercambiarlos por ropa de la tienda, cambiando su precio original por una cantidad de puntos acorde.
 
 
 ### 2.b ScopeCanvas
@@ -132,7 +129,10 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
-![image](https://github.com/user-attachments/assets/77795e0c-17e8-41e6-a75c-b0ec08217808)
+User Map es el recorrido que hace el usuario al interactuar con la página web.
+Task flow es un diagrama que muestra cómo un usuario completa las tareas específicas que encuentra en una web mientras va pasando por diferentes pantallas.
+
+![image](https://github.com/user-attachments/assets/14b2f686-b05c-4b56-8ddc-d7b6c42784a8)
 
 
 
@@ -145,6 +145,8 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 Término | Significado     
 | ------------- | -------
   Inicio Sesión  | Acceder a tu cuenta de usuario con nombre y contraseña
+  Moneda | Se consiguen al realizar acciones sociales o donación de ropa. Se intercambian por prendas que vendan en la tienda o web
+  Donación web | Donar prendas que ya no son de tu estilo subiendo fotos a la web con una breve descripción
 
 
 ### 2.d Wireframes
