@@ -5,14 +5,14 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_McQueen&Sally.  Curso: 2024/25 
 
-Actualizado: 1/04/2025
+Actualizado: 12/04/2025
 
 Proyecto: 
-### MONEDA DE CAMBIO
+### MONEDAS-RE, PRENDAS PARA TODOS
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Promover y facilitar la donación y adquisición de prendas de segunda mano mediante un punto de compra/venta en la página de moda-re.
 
 Logotipo: 
 
@@ -95,41 +95,28 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 ![image](https://github.com/user-attachments/assets/c4566775-22aa-4178-90b5-6b48dc9a69b8)
 
 Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Feedback%20Capture%20grid.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Feedback%20Capture%20grid.pdf)
 
-
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
-Como propuesta de valor para aumentar las donaciones y compras en la tienda incluimos un sistema de puntos/monedas. Estos puntos se pueden obtener donando ropa o con acciones sociales. Sirven para poder intercambiarlos por ropa de la tienda, cambiando su precio original por una cantidad de puntos acorde.
+Como propuesta de valor para aumentar las donaciones y compras en la tienda incluimos un sistema de puntos/monedas. Estos puntos se pueden obtener donando ropa o con acciones sociales. Sirven para poder intercambiarlos por ropa de la tienda, cambiando su precio original por una cantidad de puntos acorde. Los usuarios obtienen monedas al donar su ropa en su perfil, de manera que establecen el precio de la misma en monedas, recibiendo las mismas si se efectúa la donación. 
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+![image](https://github.com/user-attachments/assets/47679059-aea7-4491-9ae4-3536a9c3998e)
 
-![imagen](https://github.com/user-attachments/assets/a7970883-6fc8-4f01-a1a7-dd229e813f5b)
-
-Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/ScopeCanvas.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/ScopeCanvas.pdf)
+Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Scope%20Canvas.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Scope%20Canvas.pdf)
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 User Map es el recorrido que hace el usuario al interactuar con la página web.
 
@@ -142,9 +129,6 @@ Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Flow%20Map
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
 ![image](https://github.com/user-attachments/assets/e003cc6a-f2f7-4d97-85da-889737278491)
 
@@ -163,8 +147,27 @@ Término | Significado
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+Hemos adaptado los bocetos a papel que tenemos en la carpeta P2 mediante Wireframes de figma con una fidelidad baja, la cual extenderemos más adelante. A continuación vamos describiendo las 
+distintas páginas que hemos diseñado: 
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+Landing page: ![image](https://github.com/user-attachments/assets/a091d6e0-3129-4ea2-945d-c60350802473)
+
+Inicio de sesión: ![image](https://github.com/user-attachments/assets/b10c486e-b418-46d1-b6a1-67d2d7efeee8)
+
+Perfil: 
+
+![image](https://github.com/user-attachments/assets/1c8aecd4-d068-4ea5-b53c-c775e3b3ffbb)
+
+Armario de prendas donadas: ![image](https://github.com/user-attachments/assets/eb0af77b-07a4-4ad9-a2b1-38b70341509e)
+
+Comprar/Prendas favoritas: ![image](https://github.com/user-attachments/assets/f381597b-e0be-47c3-b64b-386f10f0d208)
+
+Carrito: ![image](https://github.com/user-attachments/assets/93737881-94e7-4308-8235-3348c00b39fa)
+
+Donar/Producto: ![image](https://github.com/user-attachments/assets/55b37ac0-cece-4261-9289-6edb86993e9f)
+
+3 distintos tamaños para la página de comprar/prendas: ![image](https://github.com/user-attachments/assets/2635a161-785f-4b37-aefc-20ba8c12188d)
+
 
 Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/WireframesP2.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/WireframesP2.pdf)
 
