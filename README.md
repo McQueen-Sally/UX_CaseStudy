@@ -97,7 +97,7 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Feedback Capture Grid 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
@@ -105,7 +105,7 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 ![image](https://github.com/user-attachments/assets/c4566775-22aa-4178-90b5-6b48dc9a69b8)
 
-Enlace al documento:[]()
+Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Feedback%20Capture%20grid.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Feedback%20Capture%20grid.pdf)
 
 
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
@@ -123,7 +123,7 @@ Como propuesta de valor para aumentar las donaciones y compras en la tienda incl
 
 ![imagen](https://github.com/user-attachments/assets/a7970883-6fc8-4f01-a1a7-dd229e813f5b)
 
-Enlace al documento:[]()
+Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/ScopeCanvas.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/ScopeCanvas.pdf)
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
@@ -137,7 +137,7 @@ Task flow es un diagrama que muestra cómo un usuario completa las tareas espec�
 
 ![image](https://github.com/user-attachments/assets/beed9238-c70f-4c20-adc7-f53ba852d791)
 
-Enlace al documento:[]()
+Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Flow%20Map.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Flow%20Map.pdf)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
@@ -148,7 +148,7 @@ Enlace al documento:[]()
 
 ![image](https://github.com/user-attachments/assets/e003cc6a-f2f7-4d97-85da-889737278491)
 
-Enlace al documento:[]()
+Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Sitemap.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Sitemap.pdf)
 
 Término | Significado     
 | ------------- | -------
@@ -164,7 +164,9 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+>>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+
+Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/WireframesP2.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/WireframesP2.pdf)
 
 <br>
 
