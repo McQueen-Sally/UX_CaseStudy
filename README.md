@@ -105,7 +105,9 @@ Comentarios sobre la revisión: En general, la web tiene errores groseros de fac
 
 ![image](https://github.com/user-attachments/assets/c4566775-22aa-4178-90b5-6b48dc9a69b8)
 
-    
+Enlace al documento:[]()
+
+
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
@@ -121,7 +123,7 @@ Como propuesta de valor para aumentar las donaciones y compras en la tienda incl
 
 ![imagen](https://github.com/user-attachments/assets/a7970883-6fc8-4f01-a1a7-dd229e813f5b)
 
-
+Enlace al documento:[]()
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
@@ -130,11 +132,12 @@ Como propuesta de valor para aumentar las donaciones y compras en la tienda incl
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 User Map es el recorrido que hace el usuario al interactuar con la página web.
+
 Task flow es un diagrama que muestra cómo un usuario completa las tareas específicas que encuentra en una web mientras va pasando por diferentes pantallas.
 
-![image](https://github.com/user-attachments/assets/70fa0d0e-bd7b-4a9b-b054-e085bd53cf74)
+![image](https://github.com/user-attachments/assets/beed9238-c70f-4c20-adc7-f53ba852d791)
 
-
+Enlace al documento:[]()
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
@@ -143,14 +146,18 @@ Task flow es un diagrama que muestra cómo un usuario completa las tareas espec�
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-![image](https://github.com/user-attachments/assets/0629ec02-040e-45ae-9cb9-a70834b6fb8d)
+![image](https://github.com/user-attachments/assets/e003cc6a-f2f7-4d97-85da-889737278491)
 
+Enlace al documento:[]()
 
 Término | Significado     
 | ------------- | -------
   Inicio Sesión  | Acceder a tu cuenta de usuario con nombre y contraseña
   Moneda | Se consiguen al realizar acciones sociales o donación de ropa. Se intercambian por prendas que vendan en la tienda o web
   Donación web | Donar prendas que ya no son de tu estilo subiendo fotos a la web con una breve descripción
+  Acciones Sociales | Como participar en comedores sociales como voluntario, son gestos por los que se consiguen Monedas
+  
+  
 
 
 ### 2.d Wireframes
