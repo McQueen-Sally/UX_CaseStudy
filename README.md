@@ -190,6 +190,8 @@ Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Wireframes
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
+![image](https://github.com/user-attachments/assets/531eed7a-9017-40fc-be73-2c09bb0e2ec2)
+
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
@@ -203,7 +205,11 @@ Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Wireframes
 ----
 
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+
+Los patrones usados para el diseño de nuestra web se exponen en el guideline a continuación. 
+
+![image](https://github.com/user-attachments/assets/5a476167-0442-434d-8891-30e517ef689c)
 
 
 ### 3.d Mockup
