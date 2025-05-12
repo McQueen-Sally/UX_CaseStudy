@@ -185,20 +185,23 @@ Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Wireframes
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
-
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 ![image](https://github.com/user-attachments/assets/531eed7a-9017-40fc-be73-2c09bb0e2ec2)
 
+La imagen que hemos diseñado para la web, tiene también su versión más minimalista, la cuál es simplemente una circunferencia representativa, que fácilmente se puede incluir en imágenes de perfil o apartados que requieran de menos detalle visual. 
+
+
+Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/MoodboardP3.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/MoodboardP3.pdf)
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+![image](https://github.com/user-attachments/assets/931f194c-357e-4c01-94fc-e0c6f3258bee)
 
+
+Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%20page.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%20page.pdf)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
