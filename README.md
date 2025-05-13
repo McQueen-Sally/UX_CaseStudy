@@ -240,6 +240,8 @@ Los patrones usados para el diseño de nuestra web se exponen en el guideline a 
 >>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
+Guía en vídeo para probar el prototipo: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/ejemploUsoPrototipo.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/ejemploUsoPrototipo.webm)
+
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
