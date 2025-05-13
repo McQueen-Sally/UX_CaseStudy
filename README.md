@@ -212,8 +212,10 @@ Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%2
 
 Los patrones usados para el diseño de nuestra web se exponen en el guideline a continuación. 
 
+![guideline](https://github.com/user-attachments/assets/2e7c82cd-6569-478b-9ce5-aabbc555cd08)
 
 
+Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline.pdf)
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
