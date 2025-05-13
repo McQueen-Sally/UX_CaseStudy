@@ -212,7 +212,7 @@ Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%2
 
 Los patrones usados para el diseño de nuestra web se exponen en el guideline a continuación. 
 
-![image](https://github.com/user-attachments/assets/5a476167-0442-434d-8891-30e517ef689c)
+
 
 
 ### 3.d Mockup
@@ -220,6 +220,17 @@ Los patrones usados para el diseño de nuestra web se exponen en el guideline a 
 ----
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+
+![image](https://github.com/user-attachments/assets/1ff9ace9-6f04-4005-b563-cb7cc860d9d1)
+
+![image](https://github.com/user-attachments/assets/bc3ece09-1c68-4e43-96cf-c965e6fa02af)
+
+![image](https://github.com/user-attachments/assets/770a18b0-1b35-4d96-a967-46b3479b9c31)
+
+![image](https://github.com/user-attachments/assets/9407e377-398a-4ade-852c-7c140ec52ed9)
+
+![image](https://github.com/user-attachments/assets/437289f9-7daf-43ef-a9de-f959d5845671)
+
 
 
 ### 3.e ¿My UX-Case Study?
