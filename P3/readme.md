@@ -1,6 +1,7 @@
 # DIU - Practica 3, entregables
 
 - Moodboard (diseño visual + logotipo): [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/MoodboardP3.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/MoodboardP3.pdf)
+- Guideline: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline.pdf)
 - Landing Page: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%20page.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%20page.pdf)
 - Mockup: LAYOUT HI-FI: 
 - Publicación del Case Study
