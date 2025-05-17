@@ -3,8 +3,8 @@
 - Moodboard (diseño visual + logotipo): [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/MoodboardP3.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/MoodboardP3.pdf)
 - Guideline: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline.pdf)
 - Landing Page: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%20page.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%20page.pdf)
-- Mockup: LAYOUT HI-FI: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3)
-- Publicación del Case Study
+- Mockup LAYOUT HI-FI: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Hi-FI.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Hi-FI.pdf) 
+- Publicación del Case Study: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3)
 
 ## Conclusiones
 
