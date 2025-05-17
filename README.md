@@ -16,11 +16,14 @@ Promover y facilitar la donación y adquisición de prendas de segunda mano medi
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 ![image](https://github.com/user-attachments/assets/f837797e-d207-401d-ac2a-933ff79ff895)
 
 ### Acciones -> Ropa
+
+Enlace al mockup: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3
+](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3
+)
 
 Miembros:
  * :bust_in_silhouette:  Elisa Pereira Padilla     :octocat: [https://github.com/ElisaPereiraPadilla](https://github.com/ElisaPereiraPadilla)     
@@ -179,14 +182,9 @@ Recurso:[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P2/Wireframes
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
 ![image](https://github.com/user-attachments/assets/531eed7a-9017-40fc-be73-2c09bb0e2ec2)
 
 La imagen que hemos diseñado para la web, tiene también su versión más minimalista, la cuál es simplemente una circunferencia representativa, que fácilmente se puede incluir en imágenes de perfil o apartados que requieran de menos detalle visual. 
@@ -207,8 +205,6 @@ Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Landing%2
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
 Los patrones usados para el diseño de nuestra web se exponen en el guideline a continuación. 
 
@@ -221,7 +217,6 @@ Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 ![image](https://github.com/user-attachments/assets/1ff9ace9-6f04-4005-b563-cb7cc860d9d1)
 
@@ -233,14 +228,11 @@ Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline
 
 ![image](https://github.com/user-attachments/assets/437289f9-7daf-43ef-a9de-f959d5845671)
 
-
+Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Hi-FI.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Hi-FI.pdf)
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 Guía en vídeo para probar el prototipo: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/ejemploUsoPrototipo.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/ejemploUsoPrototipo.webm)
 
