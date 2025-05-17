@@ -14,4 +14,4 @@ Hemos habilitado algo similar a un marketplace de segunda mano, que facilita a l
 
 En el mock-up intentamos mostrar una demo de la mayoría de las funcionalidades presentadas en el rediseño. Entre ellas están la página para donar prendas, el punto de venta, tu armario, el carrito etc. Hemos optado por una versión minimalista y cuidada de la web. 
 
-Nuestro equipo ha estado trabajando para que este proyecto de mejora y aportaciones hacia la web de Moda-Re salga adelante. Trabajando ambos en clase y desde casa, hemos cumplido con las espectativas que teníamos en Tu moda-re, convirtiendo la web en un sitio dinámico donde los clientes también participan en nuestra tienda y causa social. 
+Nuestro equipo ha estado trabajando para que este proyecto de mejora y aportaciones hacia la web de Moda-Re salga adelante. Trabajando ambos en clase y desde casa, hemos cumplido con las expectativas que teníamos en Tu moda-re, convirtiendo la web en un sitio dinámico donde los clientes también participan en nuestra tienda y causa social. 
