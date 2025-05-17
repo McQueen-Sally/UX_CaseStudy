@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_McQueen&Sally.  Curso: 2024/25 
 
-Actualizado: 12/04/2025
+Actualizado: 17/05/2025
 
 Proyecto: 
 ### MONEDAS-RE, PRENDAS PARA TODOS
