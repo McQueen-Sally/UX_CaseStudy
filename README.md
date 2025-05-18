@@ -237,6 +237,8 @@ Guía en vídeo para probar el prototipo: [https://github.com/McQueen-Sally/UX_C
 Enlace del prototipo: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=2omjvQWxWrLS6kGo-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=2omjvQWxWrLS6kGo-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3)
 <br>
 
+Enlace al UX-Case Study completo: [https://github.com/McQueen-Sally/UX_CaseStudy](https://github.com/McQueen-Sally/UX_CaseStudy)
+
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
