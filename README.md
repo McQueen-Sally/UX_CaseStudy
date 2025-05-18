@@ -221,7 +221,7 @@ Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/guideline
 
 ![image](https://github.com/user-attachments/assets/770a18b0-1b35-4d96-a967-46b3479b9c31)
 
-![image](https://github.com/user-attachments/assets/9407e377-398a-4ade-852c-7c140ec52ed9)
+![image](https://github.com/user-attachments/assets/bd9afbc7-995a-4408-a8ca-53e47dcfd930)
 
 ![image](https://github.com/user-attachments/assets/437289f9-7daf-43ef-a9de-f959d5845671)
 
