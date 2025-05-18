@@ -7,7 +7,8 @@
 - HI-FI en pdf: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Hi-FI.pdf](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Hi-FI.pdf)
 - Publicación del Case Study: [https://github.com/McQueen-Sally/UX_CaseStudy](https://github.com/McQueen-Sally/UX_CaseStudy)
 
-## Conclusiones
+
+## Conclusiones
 
 En el proyecto se ha rediseñado la página principal de moda-re, la cuál en un inicio encontramos llena de información irrelevante y con unas tipografías que casaban poco entre ellas. Visualmente, creemos que hemos aportado una mejora para el cliente y su experiencia de uso, reduciendo el ruido visual y añadiendo funcionalidades. Por otro lado hemos añadido una sección personalizada para cada cliente, el cuál ahora puede sentirse parte de moda-re, colaborando socialmente, o donando y comprando ropa con sus monedas-re. 
 
