@@ -21,10 +21,7 @@ Logotipo:
 
 ### Acciones -> Ropa
 
-Enlace al mockup: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3
-](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3
-)
-
+Enlace al mockup: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=2omjvQWxWrLS6kGo-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=2omjvQWxWrLS6kGo-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3)
 Miembros:
  * :bust_in_silhouette:  Elisa Pereira Padilla     :octocat: [https://github.com/ElisaPereiraPadilla](https://github.com/ElisaPereiraPadilla)     
  * :bust_in_silhouette:  Miguel Fúnez Bares     :octocat: [https://github.com/miguelfnez](https://github.com/miguelfnez)
@@ -236,8 +233,7 @@ Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Hi-FI.pdf
 
 Guía en vídeo para probar el prototipo: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/ejemploUsoPrototipo.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/ejemploUsoPrototipo.webm)
 
-Enlace del prototipo: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=ZYW7Bf6BqZxjNrzn-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3)
-
+Enlace del prototipo: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=2omjvQWxWrLS6kGo-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=2omjvQWxWrLS6kGo-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3)
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
