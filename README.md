@@ -255,9 +255,9 @@ Este es el enlace a su repositorio: [https://github.com/DIU3-CLAVE/UX_CaseStudy]
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| Ángel  | H / 18   | Estudiante  | Alta       | Introvertido | Web.       | A 
+| Rafael  | H / 55   | Informático  | Alta       | Extrovertido       | Web        | A 
+| Lola | M / 62   | Jubilada     | Media        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
