@@ -248,6 +248,9 @@ Enlace al UX-Case Study completo: [https://github.com/McQueen-Sally/UX_CaseStudy
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
+Nuestro caso B es el proyecto ARTEA, trata de "incluir una sección para que los usuarios puedan aprender el arte de la cerámica gracias a kits y tutoriales que estarán disponibles en la página" describen ellos mismos.
+
+Este es el enlace a su repositorio: [https://github.com/DIU3-CLAVE/UX_CaseStudy](https://github.com/DIU3-CLAVE/UX_CaseStudy)
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
