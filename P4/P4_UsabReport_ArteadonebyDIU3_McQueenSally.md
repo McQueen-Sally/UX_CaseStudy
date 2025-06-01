@@ -156,4 +156,4 @@ No hemos encontrado.
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-Aprendemos que los usuarios necesitan o piden el botón de ayuda para facilitar más las tareas cuando les cuesta encontrar de primeras la solucion. Tener uno implementado será de gran utilidad para las aplicaciones/webs que desarrollemos.
+Aprendemos que los usuarios necesitan o piden el botón de ayuda para facilitar más la ejecución de tareas cuando les cuesta encontrar de primeras la solución. Tener uno implementado será de gran utilidad para las aplicaciones/webs que desarrollemos.
