@@ -118,6 +118,13 @@ Media general:
 ![image](https://github.com/user-attachments/assets/98c39688-9731-470a-bcd1-b4dbfc41df6a)
 
 
+Áreas de interés:
+
+![Captura de pantalla 2025-06-01 133513](https://github.com/user-attachments/assets/2bb23d2d-1011-4b3a-a3b4-338030772bdc)
+![Captura de pantalla 2025-06-01 133802](https://github.com/user-attachments/assets/1080fcff-d64a-493a-a23c-365fd1bf13de)
+
+
+
 ## 4 CONCLUSIONES 
 
 Como vemos, los resultados son dispares, pero tienen cierta relación con el tiempo empleado en su realización y experiencia. El primer usuario dedicó más tiempo a la realización de la tarea, expresó él, para informarse de todo lo que ofrecía la web primero y luego operar en ella, algo que le dió una visión más significativa de cómo moverse por esta. Por otro lado, el usuario más joven, intentó realizar la tarea sin la calma suficiente, resultando en una experiencia no tan familiar e intuitiva para él. 
@@ -149,4 +156,4 @@ No hemos encontrado.
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Aprendemos que los usuarios necesitan o piden el botón de ayuda para facilitar más las tareas cuando les cuesta encontrar de primeras la solucion. Tener uno implementado será de gran utilidad para las aplicaciones/webs que desarrollemos.
