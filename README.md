@@ -234,6 +234,8 @@ Recurso: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/Hi-FI.pdf
 
 Guía en vídeo para probar el prototipo: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/ejemploUsoPrototipo.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P3/ejemploUsoPrototipo.webm)
 
+
+
 Enlace del prototipo: [https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=2omjvQWxWrLS6kGo-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3](https://www.figma.com/proto/QfmYurxzhZh27Qnck9ai5P/Hi-FI?node-id=22-3&p=f&t=2omjvQWxWrLS6kGo-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A2&starting-point-node-id=22%3A3)
 <br>
 
@@ -248,6 +250,7 @@ Enlace al UX-Case Study completo: [https://github.com/McQueen-Sally/UX_CaseStudy
 Nuestro caso B es el proyecto ARTEA, trata de "incluir una sección para que los usuarios puedan aprender el arte de la cerámica gracias a kits y tutoriales que estarán disponibles en la página" describen ellos mismos en su repositorio.
 
 Este es el enlace a su repositorio: [https://github.com/DIU3-CLAVE/UX_CaseStudy](https://github.com/DIU3-CLAVE/UX_CaseStudy)
+Enlace a su prototipo: [https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=383-4065&t=UD9xkAV7ArfxcaYF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A18&starting-point-node-id=383%3A3982&show-proto-sidebar=1](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=383-4065&t=UD9xkAV7ArfxcaYF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A18&starting-point-node-id=383%3A3982&show-proto-sidebar=1) 
 
 Para hacer las distintas pruebas de evaluación reclutamos a 4 personas ajenas a los proyectos y a la asignatura para que sea lo más imparcial posible. En la siguiente tabla se muetran las características de los usuarios que harán las pruebas:
 
