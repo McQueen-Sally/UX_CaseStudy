@@ -6,7 +6,7 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### Monedas Re, prendas para todos
+### Artea
 
 ### 27/5/25
 
@@ -14,17 +14,16 @@
 
 
 
-![image](https://github.com/user-attachments/assets/f837797e-d207-401d-ac2a-933ff79ff895)
+![image](https://github.com/user-attachments/assets/61690483-1f26-4a99-aa09-fa4d8eb8477a)
 
-Enlace al proyecto: [https://github.com/McQueen-Sally/UX_CaseStudy](https://github.com/McQueen-Sally/UX_CaseStudy)
-
+Enlace al proyecto: [https://github.com/DIU3-CLAVE/UX_CaseStudy](https://github.com/DIU3-CLAVE/UX_CaseStudy)
 
 
 
 
 ### Realizado por:
 
-Equipo McQueen&Sally, autores del case study en cuestión. 
+Equipo McQueen&Sally. 
 
 
 
@@ -38,8 +37,7 @@ Equipo McQueen&Sally, autores del case study en cuestión.
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-La App tiene como propósito ofrecer un punto de compra-venta de ropa de segunda mano mediante monedas digitales obtenidas mediante la donación de prendas o otros actos sociales.
-
+La App tiene como propósito ofrecerles a los usuarios una plataforma de aprendizaje mediante kits y tutoriales, a los que los usuarios se podrán apuntar. 
  
 
 
@@ -49,8 +47,7 @@ La App tiene como propósito ofrecer un punto de compra-venta de ropa de segunda
 
 
 En el documento veremos las distintas pruebas a las que se han sometido nuestros participantes, ambos han realizado las mismas pruebas, obteniendo diferentes resultados, principalmente debido a la diferencia en el perfil
-de cada participante. Por un lado teníamos un participante muy inexperto y por otro alguien más familiarizado con compras online, lo cuál ha hecho que le resultase más sencillo realizar las tareas. El principal problema con el que se han topado
-es que dado que el prototipo no siempre ofrecía total funcionalidad de los botones, ellos no sabían qué podían pinchar exitosamente y qué no. 
+de cada participante. Teníamos dos participantes con un manejo elevado de la tecnología en ambos casos, pero poco familiarizados con las webs de formación. Los resultados han sido dispares, y algunos usuarios han encontrado la página más intuitiva que otros. 
 
 
 
@@ -59,9 +56,9 @@ es que dado que el prototipo no siempre ofrecía total funcionalidad de los boto
 
 #### Metodología de usabililidad
 
-Las pruebas que se van a realizar para evaluar son el método A/B testing, Cuestionario SUS y por último el método Eye Tracking. Todos los encuestados realizan las 3 pruebas correspondientes a el prototipo A.
+Las pruebas que se van a realizar para evaluar son el método A/B testing, Cuestionario SUS y por último el método Eye Tracking. Todos los encuestados realizan las 3 pruebas correspondientes a el prototipo B.
 
-Para el testing del prototipo A han tenido que intentar comprar una prenda añadiéndola al carrito y luego llegando al proceso de pago. Para realizar las pruebas hemos utilizado la página web de (https://maze.co/) donde especificamos los pasos a seguir en cada modelo para conseguir el objetivo y finalizar la prueba.
+Para el testing del prototipo B han tenido que intentar apuntarse a un curso cualquiera. Para realizar las pruebas hemos utilizado la página web de (https://maze.co/) donde especificamos los pasos a seguir en cada modelo para conseguir el objetivo y finalizar la prueba.
 
 El cuestionario SUS es estandarizado y consta de 10 preguntas que sirven para medir la usabilidad percibida de los modelos A y B. Hemos utilizado la calculadora de SUS (https://stuart-cunningham.github.io/sus/)
 
@@ -73,8 +70,8 @@ Para el método Eye Tracking utilizamos la landing page del prototipo como objet
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Lola | M / 62   | Jubilada     | Media        | Emocional    | Web en ordenador      | A 
-| Alberto  | H / 20   | Estudiante  | Alta       | Introvertido       | Web en ordenador       | A 
+| Ángel  | H / 18   | Estudiante  | Alta       | Introvertido | Web en ordenador       | B 
+| Rafael  | H / 55   | Informático  | Alta       | Extrovertido     | Web en ordenador       | B 
 
 Como vemos, las características de los participantes es bastante dispar, con conocimientos distintos al respecto y personalidades distintas. 
 
@@ -83,56 +80,48 @@ Como vemos, las características de los participantes es bastante dispar, con co
 
 #### Resultados obtenidos
 
+En Maze los usuarios han podido completar la tarea en tiempos distintos, uno tardando el doble que el otro. Se les ha supervisado durante la tarea pero no se les ha proporcionado ninguna ayuda como tal. El usuario que dedicó más tiempo a la realización de la tarea, debido a su mayor tiempo familiarizándose con el entorno, calificó mejor su experiencia comparado al otro usuario que puedo realizar la tarea más rápidamente, pero quizás no recabando la información de la web, sino a base de intuición. 
+![image](https://github.com/user-attachments/assets/1d825b27-0f69-4a5d-adb2-f1e7e54c019d)
 
 
 #### En el cuestionario SUS: 
-![image](https://github.com/user-attachments/assets/c610cd24-82a0-41e3-85b6-3a5da723bba0)
 
-![image](https://github.com/user-attachments/assets/f9f20eb1-6051-4990-9822-807763692e08)
+![image](https://github.com/user-attachments/assets/6a54d9be-5795-427b-bd4b-7109ae2ca6cb)
+![image](https://github.com/user-attachments/assets/dfa2627e-0625-4725-afbb-5013b5e09225)
 
 
 
 #### En el eye tracking: 
+![image](https://github.com/user-attachments/assets/58101821-141d-4edb-b5ba-c2b4537030a9)
+![image](https://github.com/user-attachments/assets/cbe7aaa4-6a6d-427a-8a23-5e0c9429a587)
 
-![image](https://github.com/user-attachments/assets/15f9d92e-91d5-4c6f-9a26-e7fcbfab40f7)
-![image](https://github.com/user-attachments/assets/8a2455cf-79c4-4594-a559-bfc38263288f)
+
 
 Media general: 
-
-![image](https://github.com/user-attachments/assets/7d2f76c4-b2d8-49ae-b817-91cd9561da09)
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/98c39688-9731-470a-bcd1-b4dbfc41df6a)
 
 
 ## 4 CONCLUSIONES 
 
+Como vemos, los resultados son dispares, pero tienen cierta relación con el tiempo empleado en su realización y experiencia. El primer usuario dedicó más tiempo a la realización de la tarea, expresó él, para informarse de todo lo que ofrecía la web primero y luego operar en ella, algo que le dió una visión más significativa de cómo moverse por esta. Por otro lado, el usuario más joven, intentó realizar la tarea sin la calma suficiente, resultando en una experiencia no tan familiar e intuitiva para él. 
 
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
+Como vemos en los resultados del eye tracking la idea de la web llama rápidamente la atención dejando saber al usuario qué va a encontrar en esta rápidamente.
 
 #### Incidencias
-
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
 
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
-
+* Destaca positivamente la variedad de información encontrada en la web
+* El rápido impacto del mensaje en el usuario
+* Su aspecto visual
+* La atención al detalle
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
+* Darle más importancia al botón principal, ya que nuestros usuarios no recibieron ese impacto inicial creemos, más que nada por su posicionamiento en el sitio web
+* El resto de la página está muy completa y verdaderamente bien trabajada
 
 
 
