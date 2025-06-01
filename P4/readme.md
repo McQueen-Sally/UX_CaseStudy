@@ -1,8 +1,5 @@
 # DIU - Practica 4, entregables
 
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
-
 - Users. Elección y características de los usuarios reclutados: [https://github.com/McQueen-Sally/UX_CaseStudy/tree/master?tab=readme-ov-file#4a-reclutamiento-de-usuarios](https://github.com/McQueen-Sally/UX_CaseStudy/tree/master?tab=readme-ov-file#4a-reclutamiento-de-usuarios)
   
 - Diseño de las pruebas: [https://github.com/McQueen-Sally/UX_CaseStudy/tree/master?tab=readme-ov-file#4b-dise%C3%B1o-de-las-pruebas](https://github.com/McQueen-Sally/UX_CaseStudy/tree/master?tab=readme-ov-file#4b-dise%C3%B1o-de-las-pruebas)
@@ -20,5 +17,8 @@
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Con la práctica completa hemos vivido y aprendido el proceso de mejorar una página web ya existente aportando una propuesta de valor para hacerla más llamativa y usable por los usuarios, todo el proceso de creación y modelado de prototipo de una página/aplicación web, haciendo incapié en el estilo, muy importante y necesario para que haya armonía y sea agradable a la vista.
+
+También hemos podido comparar nuestro proyecto con el de otros compañeros, evaluando a los dos por igual gracias a los usuarios que se han prestado a realizar las encuentas y pruebas de evaluación.
+
+Aprendemos que no hay sólo un diseño único para aplicaciones y webs. Gracias a la puesta a prueba de otros prototipos y la experiencia de los usuarios tenemos una visión mucho más clara de qué piensa el usuario y qué siente cuando prueba una página web, para poder mejorar su experiencia en una futura creación o remodelado del diseño de web/aplicaiones.
