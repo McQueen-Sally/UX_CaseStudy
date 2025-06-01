@@ -290,7 +290,7 @@ Estos son los resultados obtenidos del cuestionario SUS:
 
 #### Prototipo A
 
-CUestionario SUS (Lola):
+Cuestionario SUS (Lola):
 
 ![Imagen de WhatsApp 2025-05-30 a las 21 00 35_89bcf8a6](https://github.com/user-attachments/assets/e6323ba3-0d46-46a0-ad5b-b689c8bd94dc)
 
@@ -302,7 +302,7 @@ Cuestionario (Alberto):
 
 #### Prototipo B
 
-CUestionario SUS (Ángel):
+Cuestionario SUS (Ángel):
 
 ![Imagen de WhatsApp 2025-06-01 a las 12 27 56_23945361](https://github.com/user-attachments/assets/34108b6e-0638-4807-bff8-d82a551ba308)
 
@@ -333,7 +333,18 @@ Los encuestados han dado su valoración personal sobre el prototipo, justificand
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Hemos proporcionado unos vídeos sobre la ruta seguida por los participantes en cada prueba tanto del prototipo A como del prototipo B, dado que serían muchas fotos innecesarias, en un vídeo se aprecia mejor:
+
+Caso A:
+
+[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoA_Alberto.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoA_Alberto.webm)
+[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoA_Lola.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoA_Lola.webm)
+
+Caso B:
+
+[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Angel.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Angel.webm)
+[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Rafa.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Rafa.webm)
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
@@ -364,10 +375,9 @@ Se puede observar que lo más destacado es la parte principal del landing page d
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+Enlace al Usability Report: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/UsabilityReportB.md](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/UsabilityReportB.md)
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+Ha sido interesante valorar tanto a otros compañeros y ver su trabajo como supervisar las tareas propuestas a los participantes, aprender de sus problemas y observar directamente por qué no entienden algo de los prototipos o qué se podría mejorar. Como conclusión, creemos que los prototipos tanto del caso A como del caso B están bastante bien y son aptos para muchos usuarios, dado que los perfiles encuestados han sido muy diversos y no siempre estaban familiarizados con la tarea, y aun así, han logrado el resultado esperado. Hemos aprendido que en nuestro caso, el prototipo podría haber incluido alguna funcionalidad concreta más accesible o que en el caso B, podrían haber dirigido más directamente a los usuarios a las páginas de aprendizaje. En general, ha sido una buena experiencia. 
 
 
 
