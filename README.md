@@ -363,7 +363,7 @@ Otra área de interés sería la finalidad de la aplicación que es percebida po
 
 
 
-Se puede observar que lo más destacado es la parte principal del landing page donde se muestra el eslogan y objetivo de la web seguido de la opción de empezar/apuntarse. También se ve que el apartado de Kits, Cursos y Tutoriales no pasa desapercibido aunque no sea lo que más llame la atención.
+Se puede observar que lo más destacado es la parte principal del landing page donde se muestra el eslogan y objetivo de la web. También se ve que el apartado de Kits, Cursos y Tutoriales no pasa desapercibido aunque no sea lo que más llame la atención.
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
