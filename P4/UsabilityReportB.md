@@ -83,6 +83,11 @@ Como vemos, las características de los participantes es bastante dispar, con co
 En Maze los usuarios han podido completar la tarea en tiempos distintos, uno tardando el doble que el otro. Se les ha supervisado durante la tarea pero no se les ha proporcionado ninguna ayuda como tal. El usuario que dedicó más tiempo a la realización de la tarea, debido a su mayor tiempo familiarizándose con el entorno, calificó mejor su experiencia comparado al otro usuario que puedo realizar la tarea más rápidamente, pero quizás no recabando la información de la web, sino a base de intuición. 
 ![image](https://github.com/user-attachments/assets/1d825b27-0f69-4a5d-adb2-f1e7e54c019d)
 
+Durante la prueba de maze obtuvimos un mapa de calor de la actividad del participante. En el caso B podemos ver un vídeo al respecto (dado que serían muchas fotos) aquí:
+
+[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Angel.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Angel.webm)
+[https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Rafa.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Rafa.webm)
+
 
 #### En el cuestionario SUS: 
 
