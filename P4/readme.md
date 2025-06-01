@@ -12,7 +12,7 @@
     - Caso B - Rafael: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Rafa.webm](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/CasoB_Rafa.webm)
       
 - Eye Tracking para B: [https://github.com/McQueen-Sally/UX_CaseStudy/tree/master?tab=readme-ov-file#4e-aplicaci%C3%B3n-del-m%C3%A9todo-eye-tracking](https://github.com/McQueen-Sally/UX_CaseStudy/tree/master?tab=readme-ov-file#4e-aplicaci%C3%B3n-del-m%C3%A9todo-eye-tracking)
-- Usability Report del Caso B, con toda la información recabada del caso B: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/P4_UsabReport_ArteadonebyDIU3_McQueenSally.md](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/P4_UsabReport_ArteadonebyDIU3_McQueenSally.md)
+- Usability Report del Caso B, con toda la información recabada del caso B: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/P4_UsabReport_ArteadonebyDIU3_McQueenSally.md](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/P4_UsabReport_ArteadonebyDIU3_McQueenSally.md) en el Case Study: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/README.md#4f-usability-report-de-b](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/README.md#4f-usability-report-de-b)
 
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
