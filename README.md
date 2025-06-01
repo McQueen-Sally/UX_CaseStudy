@@ -245,9 +245,6 @@ Enlace al UX-Case Study completo: [https://github.com/McQueen-Sally/UX_CaseStudy
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
 Nuestro caso B es el proyecto ARTEA, trata de "incluir una sección para que los usuarios puedan aprender el arte de la cerámica gracias a kits y tutoriales que estarán disponibles en la página" describen ellos mismos en su repositorio.
 
 Este es el enlace a su repositorio: [https://github.com/DIU3-CLAVE/UX_CaseStudy](https://github.com/DIU3-CLAVE/UX_CaseStudy)
@@ -267,8 +264,6 @@ Para hacer las distintas pruebas de evaluación reclutamos a 4 personas ajenas a
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
 Las pruebas que se van a realizar para evaluar los dos proptotipos son el método A/B testing, Cuestionario SUS y por último el método Eye Tracking. Para la realización de las pruebas utilizamos los recursos proporcionados en el guión de prácticas. Todos los encuestados realizan las 3 pruebas correspondientes a el prototipo A ó B que tengan asignado.
 
 A/B Testing consiste en comprar el prototipo A con el prototipo B realizando taréas análogas en cada uno de ellos. En ambos casos han sido supervisadas las pruebas. Para el prototipo B el objetivo es apuntarse a un curso y para el prototipo A el objetivo es comprar un producto. Para realizar las pruebas hemos utilizado la página web de (https://maze.co/) donde especificamos los pasos a seguir en cada modelo para conseguir el objetivo y finalizar la prueba.
@@ -280,11 +275,6 @@ Para el método Eye Tracking utilizamos la landing page del prototipo como objet
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
-
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 Estos son los resultados obtenidos del cuestionario SUS:
 
@@ -350,14 +340,6 @@ Caso B:
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
 El objeto del experimento será la landing page del prototipo B:
 
 ![artea](https://github.com/user-attachments/assets/72257749-b77e-44c3-a534-5bb7ab28cd1d)
@@ -375,7 +357,7 @@ Se puede observar que lo más destacado es la parte principal del landing page d
 ![Método UX](img/usability-report.png) 
 -----
 
-Enlace al Usability Report: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/UsabilityReportB.md](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/UsabilityReportB.md)
+Enlace al Usability Report: [https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/P4_UsabReport_ArteadonebyDIU3_McQueenSally.md](https://github.com/McQueen-Sally/UX_CaseStudy/blob/master/P4/P4_UsabReport_ArteadonebyDIU3_McQueenSally.md)
 
 Ha sido interesante valorar tanto a otros compañeros y ver su trabajo como supervisar las tareas propuestas a los participantes, aprender de sus problemas y observar directamente por qué no entienden algo de los prototipos o qué se podría mejorar. Como conclusión, creemos que los prototipos tanto del caso A como del caso B están bastante bien y son aptos para muchos usuarios, dado que los perfiles encuestados han sido muy diversos y no siempre estaban familiarizados con la tarea, y aun así, han logrado el resultado esperado. Hemos aprendido que en nuestro caso, el prototipo podría haber incluido alguna funcionalidad concreta más accesible o que en el caso B, podrían haber dirigido más directamente a los usuarios a las páginas de aprendizaje. En general, ha sido una buena experiencia. 
 
