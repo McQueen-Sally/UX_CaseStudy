@@ -91,18 +91,30 @@ Durante la prueba de maze obtuvimos un mapa de calor de la actividad del partici
 
 #### En el cuestionario SUS: 
 
+Rafael:
+
 ![image](https://github.com/user-attachments/assets/6a54d9be-5795-427b-bd4b-7109ae2ca6cb)
+
+Ángel: 
+
 ![image](https://github.com/user-attachments/assets/dfa2627e-0625-4725-afbb-5013b5e09225)
 
 
 
 #### En el eye tracking: 
+
+Rafael: 
+
 ![image](https://github.com/user-attachments/assets/58101821-141d-4edb-b5ba-c2b4537030a9)
+
+Ángel:
+
 ![image](https://github.com/user-attachments/assets/cbe7aaa4-6a6d-427a-8a23-5e0c9429a587)
 
 
 
 Media general: 
+
 ![image](https://github.com/user-attachments/assets/98c39688-9731-470a-bcd1-b4dbfc41df6a)
 
 
@@ -114,6 +126,7 @@ Como vemos en los resultados del eye tracking la idea de la web llama rápidamen
 
 #### Incidencias
 
+No hemos encontrado.
 
 
 #### Valoración 
