@@ -248,17 +248,19 @@ Enlace al UX-Case Study completo: [https://github.com/McQueen-Sally/UX_CaseStudy
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
-Nuestro caso B es el proyecto ARTEA, trata de "incluir una sección para que los usuarios puedan aprender el arte de la cerámica gracias a kits y tutoriales que estarán disponibles en la página" describen ellos mismos.
+Nuestro caso B es el proyecto ARTEA, trata de "incluir una sección para que los usuarios puedan aprender el arte de la cerámica gracias a kits y tutoriales que estarán disponibles en la página" describen ellos mismos en su repositorio.
 
 Este es el enlace a su repositorio: [https://github.com/DIU3-CLAVE/UX_CaseStudy](https://github.com/DIU3-CLAVE/UX_CaseStudy)
+
+Para hacer las distintas pruebas de evaluación reclutamos a 4 personas ajenas a los proyectos y a la asignatura para que sea lo más imparcial posible. En la siguiente tabla se muetran las características de los usuarios que harán las pruebas:
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Ángel  | H / 18   | Estudiante  | Alta       | Introvertido | Web.       | A 
-| usuario 2  | H / 55   | Informático  | Alta       | Extrovertido       | Web        | A 
-| Lola | M / 62   | Jubilada     | Media        | Emocional    | móvil      | B 
-| Rafael  | H / 55   | Informático  | Alta       | Extrovertido     | Web        | B 
+| Lola | M / 62   | Jubilada     | Media        | Emocional    | Web en ordenador      | A 
+| Alberto  | H / 20   | Estudiante  | Alta       | Introvertido       | Web en ordenador       | A 
+| Ángel  | H / 18   | Estudiante  | Alta       | Introvertido | Web en ordenador       | B 
+| Rafael  | H / 55   | Informático  | Alta       | Extrovertido     | Web en ordenador       | B 
 
 
 ### 4.b Diseño de las pruebas 
@@ -267,7 +269,13 @@ Este es el enlace a su repositorio: [https://github.com/DIU3-CLAVE/UX_CaseStudy]
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
+Las pruebas que se van a realizar para evaluar los dos proptotipos son el método A/B testing, Cuestionario SUS y por último el método Eye Tracking. Para la realización de las pruebas utilizamos los recursos proporcionados en el guión de prácticas. Todos los encuestados realizan las 3 pruebas correspondientes a el prototipo A ó B que tengan asignado.
 
+A/B Testing consiste en comprar el prototipo A con el prototipo B realizando taréas análogas en cada uno de ellos. En ambos casos han sido supervisadas las pruebas. Para el prototipo A el objetivo es apuntarse a un curso y para el prototipo B el objetivo es comprar un producto. Para realizar las pruebas hemos utilizado la página web de (https://maze.co/) donde especificamos los pasos a seguir en cada modelo para conseguir el objetivo y finalizar la prueba.
+
+El cuestionario SUS es estandarizado y consta de 10 preguntas que sirven para medir la usabilidad percibida de los modelos A y B. Hemos utilizado la calculadora de SUS (https://stuart-cunningham.github.io/sus/)
+
+Para el método Eye Tracking utilizamos la landing page del prototipo como objeto del experimento. El tiempo de observación es de 5 segundos y el objetivo es notificar cuáles son las partes que más les llama la atención a los usuarios. Para realizar esta prueba utilizamos la web de RealEye (https://www.realeye.io/es)
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
