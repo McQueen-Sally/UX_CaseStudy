@@ -286,6 +286,48 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
+Estos son los resultados obtenidos del cuestionario SUS:
+
+#### Prototipo A
+
+CUestionario SUS (Lola):
+
+![Imagen de WhatsApp 2025-05-30 a las 21 00 35_89bcf8a6](https://github.com/user-attachments/assets/e6323ba3-0d46-46a0-ad5b-b689c8bd94dc)
+
+
+Cuestionario (Alberto):
+
+![Imagen de WhatsApp 2025-06-01 a las 12 27 29_09069b33](https://github.com/user-attachments/assets/71ea9e19-68a4-4edd-9b93-9f89cf90a3dc)
+
+
+#### Prototipo B
+
+CUestionario SUS (Ángel):
+
+![Imagen de WhatsApp 2025-06-01 a las 12 27 56_23945361](https://github.com/user-attachments/assets/34108b6e-0638-4807-bff8-d82a551ba308)
+
+Cuestionario (Rafael):
+
+![Captura de pantalla 2025-05-30 190115](https://github.com/user-attachments/assets/41904a49-1214-446d-a18f-635243b3b486)
+
+#### Tabla de valoración
+
+![image](https://github.com/user-attachments/assets/1c4d4437-a472-4bd3-bb00-90b83e038b74)
+
+Gracias a la tabla de valoración podemos conocer el grado de usabilidad de la página en la escala SUS.
+
+#### Valoraciones personales
+
+Los encuestados han dado su valoración personal sobre el prototipo, justificando así su puntuación y experiencia con los modelos.
+
+##### Lola: "Me ha costado un poco porque no estoy acostumbrada a comprar por internet. No es difícil, pero creo es mi primera vez."
+
+##### Alberto: "Regular, el botón del carrito debería de estar siempre visible" 
+
+##### Ángel: "Es un poco complicada encontrar la opción de apuntarse a un curso" 
+
+##### Rafael: "Ha sido sencillo apuntarse a un curso, muy intuitiva, si añadiría botón de ayuda."
+
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
