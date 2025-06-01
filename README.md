@@ -353,6 +353,15 @@ Una vez realizado el test por los dos usuarios, el mapa de calor resultante es e
 
 ![Captura de pantalla 2025-05-30 195732](https://github.com/user-attachments/assets/f3720080-11f0-454a-8736-327325e6e9a4)
 
+Marcamos como áreas de interés el botón de Apuntarse y se muestra como que no ha sido percibido en el eye tracking:
+
+![image](https://github.com/user-attachments/assets/a10249ba-b414-42f8-a38d-e030df5e25de)
+
+Otra área de interés sería la finalidad de la aplicación que es percebida por el 100% de los usuarios:
+
+![image](https://github.com/user-attachments/assets/08c288aa-a4b1-47c0-ae00-023bfe82a646)
+
+
 
 Se puede observar que lo más destacado es la parte principal del landing page donde se muestra el eslogan y objetivo de la web seguido de la opción de empezar/apuntarse. También se ve que el apartado de Kits, Cursos y Tutoriales no pasa desapercibido aunque no sea lo que más llame la atención.
 
