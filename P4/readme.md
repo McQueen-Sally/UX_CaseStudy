@@ -21,4 +21,4 @@ Con la práctica completa hemos vivido y aprendido el proceso de mejorar una pá
 
 También hemos podido comparar nuestro proyecto con el de otros compañeros, evaluando a los dos por igual gracias a los usuarios que se han prestado a realizar las encuentas y pruebas de evaluación.
 
-Aprendemos que no hay sólo un diseño único para aplicaciones y webs. Gracias a la puesta a prueba de otros prototipos y la experiencia de los usuarios tenemos una visión mucho más clara de qué piensa el usuario y qué siente cuando prueba una página web, para poder mejorar su experiencia en una futura creación o remodelado del diseño de web/aplicaiones.
+Aprendemos que no hay sólo un diseño único para aplicaciones y webs. Gracias a la puesta a prueba de otros prototipos y la experiencia de los usuarios tenemos una visión mucho más clara de qué piensa el usuario y qué siente cuando prueba una página web, para poder mejorar su experiencia en una futura creación o remodelado del diseño de web/aplicaciones.
