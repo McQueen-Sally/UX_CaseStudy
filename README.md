@@ -271,7 +271,7 @@ Para hacer las distintas pruebas de evaluación reclutamos a 4 personas ajenas a
 
 Las pruebas que se van a realizar para evaluar los dos proptotipos son el método A/B testing, Cuestionario SUS y por último el método Eye Tracking. Para la realización de las pruebas utilizamos los recursos proporcionados en el guión de prácticas. Todos los encuestados realizan las 3 pruebas correspondientes a el prototipo A ó B que tengan asignado.
 
-A/B Testing consiste en comprar el prototipo A con el prototipo B realizando taréas análogas en cada uno de ellos. En ambos casos han sido supervisadas las pruebas. Para el prototipo A el objetivo es apuntarse a un curso y para el prototipo B el objetivo es comprar un producto. Para realizar las pruebas hemos utilizado la página web de (https://maze.co/) donde especificamos los pasos a seguir en cada modelo para conseguir el objetivo y finalizar la prueba.
+A/B Testing consiste en comprar el prototipo A con el prototipo B realizando taréas análogas en cada uno de ellos. En ambos casos han sido supervisadas las pruebas. Para el prototipo B el objetivo es apuntarse a un curso y para el prototipo A el objetivo es comprar un producto. Para realizar las pruebas hemos utilizado la página web de (https://maze.co/) donde especificamos los pasos a seguir en cada modelo para conseguir el objetivo y finalizar la prueba.
 
 El cuestionario SUS es estandarizado y consta de 10 preguntas que sirven para medir la usabilidad percibida de los modelos A y B. Hemos utilizado la calculadora de SUS (https://stuart-cunningham.github.io/sus/)
 
@@ -305,6 +305,18 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
+El objeto del experimento será la landing page del prototipo B:
+
+![artea](https://github.com/user-attachments/assets/72257749-b77e-44c3-a534-5bb7ab28cd1d)
+
+Para poder obtener el mapa de calor utilizamos la página web RealEye (https://www.realeye.io/es). En ella creamos un nuevo estudio llamado EyeTracking B y modificamos los ajustes para que el experimento se realice por 2 usuarios, dure 5 segundos y muestre una descripción de lo que hay que hacer, en este caso, hemos decidido que sea observar la página haciendo incapié en lo que más llame la atención. Así poder identificar si las partes de diseño más observadas son las que el diseñador espera.
+
+Una vez realizado el test por los dos usuarios, el mapa de calor resultante es este:
+
+![Captura de pantalla 2025-05-30 195732](https://github.com/user-attachments/assets/f3720080-11f0-454a-8736-327325e6e9a4)
+
+
+Se puede observar que lo más destacado es la parte principal del landing page donde se muestra el eslogan y objetivo de la web seguido de la opción de empezar/apuntarse. También se ve que el apartado de Kits, Cursos y Tutoriales no pasa desapercibido aunque no sea lo que más llame la atención.
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
